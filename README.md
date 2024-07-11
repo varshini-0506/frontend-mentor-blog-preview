@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/varshini-0506/frontend-mentor-blog-preview.git)
-- Live Site URL: [Add live site URL here]( https://varshini-0506.github.io/frontend-mentor-blog-preview/)
+- Solution URL: [Git Repository](https://github.com/varshini-0506/frontend-mentor-blog-preview.git)
+- Live Site URL: [Live site]( https://varshini-0506.github.io/frontend-mentor-blog-preview/)
 
 ## My process
 
